@@ -1,4 +1,4 @@
-URL - Tile - SEO Title Optimizer
+URL - Title - SEO Title Optimizer
 ===============================
 
 This program is a web scraper that uses Selenium to automate the process of exporting CSVs from Ahrefs for a list of URLs.
